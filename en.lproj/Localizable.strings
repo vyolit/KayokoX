@@ -1,0 +1,73 @@
+/*
+  Localizable.strings
+  Kayoko
+
+  Created by Alexandra Aurora Göttlicher (@Traurige)
+
+*/
+
+// menu item
+"StatusItemClipboardHistory" = "Clipboard History";
+"StatusItemExtras" = "Extras";
+"StatusItemAbout" = "About";
+"StatusItemPreferences" = "Preferences";
+"StatusItemQuit" = "Quit";
+
+// pasteboard manager
+"PasteboardManagerUnexpectedResult" = "The server didn't return the expected result.";
+"PasteboardManagerSongLinkError" = "An error occurred while fetching the song.link link.";
+"PasteboardManagerTranslateError" = "An error occurred while fetching the translation.";
+
+// clipboard history submenu
+"HistorySubmenuFavorites" = "Favorites";
+"HistorySubmenuHistory" = "History";
+"HistorySubmenuClearHistory" = "Clear History...";
+"HistorySubmenuPlaceholder" = "Nothing to see here (*^ -^*)";
+
+// extras submenu
+"ExtrasSubmenuExtras" = "Extras";
+"ExtrasSubmenuSongLink" = "Convert Song.Link";
+"ExtrasSubmenuSongLinkTooltip" = "Convert the currently stored link to song.link.";
+"ExtrasSubmenuTranslate" = "Translate Text";
+"ExtrasSubmenuTranslateTooltip" = "Translate the currently stored text to your system language.";
+
+// preferences tab controller
+"PreferencesTabGeneral" = "General";
+"PreferencesTabGeneralPreferences" = "General Preferences";
+"PreferencesTabClipboard" = "Clipboard";
+"PreferencesTabClipboardPreferences" = "Clipboard Preferences";
+"PreferencesTabExtras" = "Extras";
+"PreferencesTabExtrasPreferences" = "Extras Preferences";
+"PreferencesTabAbout" = "About";
+"PreferencesTabAboutPreferences" = "About Preferences";
+
+// general preferences
+"GeneralPreferencesIcon" = "Icon";
+"GeneralPreferencesIconAppName" = "App Name";
+"GeneralPreferencesIconIcon" = "Icon";
+"GeneralPreferencesIconCustomText" = "Custom Text";
+"GeneralPreferencesIconDescription" = "Choose what to display on the Menu Bar\nthat represents";
+"GeneralPreferencesStartup" = "Startup";
+"GeneralPreferencesStartupLabel" = "Launch at login";
+
+// clipboard preferences
+"ClipboardPreferencesMaximumAmount" = "Max. Amount";
+"ClipboardPreferencesMaximumAmountDescription" = "The maximum amount of items to store.\nCurrently set to";
+"ClipboardPreferencesSave" = "Save";
+"ClipboardPreferencesSaveText" = "Text";
+"ClipboardPreferencesSaveFiles" = "Files";
+"ClipboardPreferencesBehavior" = "Behavior";
+"ClipboardPreferencesBehaviorAutomaticallyPaste" = "Automatically Paste";
+
+// extras preferences
+"ExtrasPreferencesSongLink" = "Song.Link";
+"ExtrasPreferencesSongLinkLabel" = "Add SongLink Option";
+"ExtrasPreferencesSongLinkDescription" = "Adds an option to convert the currently\nstored music link to Song.Link.";
+"ExtrasPreferencesDeepL" = "DeepL";
+"ExtrasPreferencesDeepLLabel" = "Add Translate Option";
+"ExtrasPreferencesDeepLDescription" = "Adds an option to translate the currently\nstored text to your system language.";
+
+// about preferences
+"AboutPreferencesVersion" = "Version";
+"AboutPreferencesGitHub" = "GitHub @ Traurige";
+"AboutPreferencesCopyright" = "Alexandra Aurora Göttlicher";
