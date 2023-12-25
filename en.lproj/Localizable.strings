@@ -1,0 +1,49 @@
+/*
+  Localizable.strings
+  KayokoX
+
+  Created by Alexandra Aurora Göttlicher
+
+*/
+
+// menu item
+"StatusItemClipboardHistory" = "Clipboard History";
+"StatusItemAbout" = "About";
+"StatusItemPreferences" = "Preferences";
+"StatusItemQuit" = "Quit";
+
+// clipboard history submenu
+"HistorySubmenuFavorites" = "Favorites";
+"HistorySubmenuHistory" = "History";
+"HistorySubmenuClearHistory" = "Clear History...";
+"HistorySubmenuPlaceholder" = "Nothing to see here (*^ -^*)";
+
+// preferences tab controller
+"PreferencesTabGeneral" = "General";
+"PreferencesTabGeneralPreferences" = "General Preferences";
+"PreferencesTabClipboard" = "Clipboard";
+"PreferencesTabClipboardPreferences" = "Clipboard Preferences";
+"PreferencesTabAbout" = "About";
+"PreferencesTabAboutPreferences" = "About Preferences";
+
+// general preferences
+"GeneralPreferencesIcon" = "Icon";
+"GeneralPreferencesIconIcon" = "Icon";
+"GeneralPreferencesIconCustomText" = "Custom Text";
+"GeneralPreferencesIconDescription" = "Choose what to display on the Menu Bar\nthat represents";
+"GeneralPreferencesStartup" = "Startup";
+"GeneralPreferencesStartupLabel" = "Launch at login";
+
+// clipboard preferences
+"ClipboardPreferencesMaximumAmount" = "Max. Amount";
+"ClipboardPreferencesMaximumAmountDescription" = "The maximum amount of items to store.\nCurrently set to";
+"ClipboardPreferencesSave" = "Save";
+"ClipboardPreferencesSaveText" = "Text";
+"ClipboardPreferencesSaveFiles" = "Files";
+"ClipboardPreferencesBehavior" = "Behavior";
+"ClipboardPreferencesBehaviorAutomaticallyPaste" = "Automatically Paste";
+
+// about preferences
+"AboutPreferencesVersion" = "Version";
+"AboutPreferencesGitHub" = "GitHub @ vyolit";
+"AboutPreferencesCopyright" = "Alexandra Aurora Göttlicher";
